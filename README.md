@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/-PIP(low)-cb3837?style=flat-square&logo=pip&logoColor=white)](https://pypi.org/)
 
 [![](https://img.shields.io/badge/-Python(3.7)-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
-[![](https://img.shields.io/badge/-Golang(low)-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://golang.com/)
+[![](https://img.shields.io/badge/-Golang(low)-43853d?style=flat-square&logo=golang&logoColor=ffffff)](https://golang.com/)
 [![](https://img.shields.io/badge/-C%20Sharp(low)-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
 
