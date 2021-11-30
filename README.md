@@ -24,6 +24,8 @@
 [![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
 [![](https://img.shields.io/badge/H3C-S5130S-e50110?style=flat-square)]()
 
+[![](https://img.shields.io/badge/Broadcom-NetXtreme-CC092F?style=flat-square&logo=broadcom)]()
+[![](https://img.shields.io/badge/Mellanox-ConnectX-0059ab?style=flat-square)]()
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
