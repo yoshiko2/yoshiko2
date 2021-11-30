@@ -15,7 +15,11 @@
 [![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
 [![](https://img.shields.io/badge/Samsung-S10%205G-blue?style=flat-square&)]()
 #### Homelab & Server
-[![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square&logo=intel)]()
+[![](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square)]()
+[![](https://img.shields.io/badge/VMware-vCenter-607078?style=flat-square)]()
+[![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square)]()
+
+
 [![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
 [![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
 [![](https://img.shields.io/badge/H3C-S5130S-e50110?style=flat-square)]()
