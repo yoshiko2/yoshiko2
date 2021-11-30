@@ -35,7 +35,7 @@
 [![](https://img.shields.io/badge/Pr-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=000058)](https://adobe.com/)
 
 [![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-000000?style=flat-square&logo=PyCharm&logoColor=000000)]()
-[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-000000?style=flat-square&logo=GoLand&logoColor=000000)]()
+[![](https://img.shields.io/badge/IDE-JetBrains%20GoLand-000000?style=flat-square&logo=GoLand&logoColor=000000)]()
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/PyPI-21.2.4-3775A9?style=flat-square&logo=Pypi&logoColor=white)](https://pypi.org/)
