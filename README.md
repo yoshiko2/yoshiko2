@@ -6,13 +6,15 @@
 
 
 
-#### Platform & Tools
+#### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Debian-10-da282a?style=flat-square&logo=debian)]()
+[![](https://img.shields.io/badge/FreeBSD-13-da282a?style=flat-square&logo=FreeBSD)]()
+#### Terminal
 [![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
-[![](https://img.shields.io/badge/-Debian10-2376bc?style=flat-square&logo=debian&logoColor=A81D33)]()
 #### Server
-[![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-brightgreen?style=flat-square)]()
-[![](https://img.shields.io/badge/HPE-Gen9-brightgreen?style=flat-square)]()
+[![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
+[![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
@@ -23,7 +25,7 @@
 [![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-brightgreen?style=flat-square&logo=JetBrains&logoColor=000000)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![](https://img.shields.io/badge/-PIP(low)-cb3837?style=flat-square&logo=pip&logoColor=white)](https://pypi.org/)
+[![](https://img.shields.io/badge/PyPI-21.2.4-3775A9?style=flat-square&logo=Pypi)](https://pypi.org/)
 
 [![](https://img.shields.io/badge/-Python(3.7)-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
 [![](https://img.shields.io/badge/-Golang(low)-43853d?style=flat-square&logo=Go&logoColor=00ADD8)](https://golang.com/)
