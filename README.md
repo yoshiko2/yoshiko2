@@ -15,7 +15,7 @@
 
 [![](https://img.shields.io/badge/Ps-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001e36)](https://adobe.com/)
 
-[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-green?style=flat-square&logo=JetBrains&logoColor=000000)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-brightgreen?style=flat-square&logo=JetBrains&logoColor=000000)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![](https://img.shields.io/badge/-PIP(low)-cb3837?style=flat-square&logo=pip&logoColor=white)](https://pypi.org/)
