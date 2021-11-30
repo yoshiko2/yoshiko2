@@ -12,9 +12,12 @@
 [![](https://img.shields.io/badge/FreeBSD-13-da282a?style=flat-square&logo=FreeBSD)]()
 #### Terminal
 [![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
-#### Server
+[![](https://img.shields.io/badge/Samsung-S10%205G-blue?style=flat-square&)]()
+#### Homelab & Server
 [![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
 [![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
+[![](https://img.shields.io/badge/H3C-S5130S-e50110?style=flat-square)]()
+
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
@@ -22,14 +25,14 @@
 
 [![](https://img.shields.io/badge/Ps-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001e36)](https://adobe.com/)
 
-[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-brightgreen?style=flat-square&logo=JetBrains&logoColor=000000)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-000000?style=flat-square&logo=JetBrains&logoColor=000000)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![](https://img.shields.io/badge/PyPI-21.2.4-3775A9?style=flat-square&logo=Pypi)](https://pypi.org/)
+[![](https://img.shields.io/badge/PyPI-21.2.4-3775A9?style=flat-square&logo=Pypi&logoColor=white)](https://pypi.org/)
 
-[![](https://img.shields.io/badge/-Python(3.7)-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
-[![](https://img.shields.io/badge/-Golang(low)-43853d?style=flat-square&logo=Go&logoColor=00ADD8)](https://golang.com/)
-[![](https://img.shields.io/badge/-C%20Sharp(low)-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
+[![](https://img.shields.io/badge/Python-3.7-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
+[![](https://img.shields.io/badge/Golang-1.16.5-00ADD8?style=flat-square&logo=Go)](https://golang.com/)
+[![](https://img.shields.io/badge/-C%20Sharp-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
 
 
@@ -40,4 +43,4 @@
 
 #### Find Me
 
-[![](https://img.shields.io/badge/-Telegram-00A1D6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yoshiko2)
+[![](https://img.shields.io/badge/-Telegram-204461?style=flat-square&logo=telegram)](https://t.me/yoshiko2)
