@@ -8,6 +8,11 @@
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
+[![](https://img.shields.io/badge/-Debian10-2376bc?style=flat-square&logo=debian&logoColor=A81D33)]()
+#### Server
+[![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-brightgreen?style=flat-square)]()
+[![](https://img.shields.io/badge/HPE-Gen9-brightgreen?style=flat-square)]()
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
