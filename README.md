@@ -54,3 +54,4 @@
 #### Find Me
 
 [![](https://img.shields.io/badge/-Telegram-204461?style=flat-square&logo=telegram)](https://t.me/yoshiko2)
+[![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](yoshiko2.dev@gmail.com)
