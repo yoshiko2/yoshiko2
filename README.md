@@ -1,8 +1,8 @@
 **一个穷学生**
 
-[![](https://github-readme-stats.vercel.app/api?username=yoshiko2&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)](#)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiko2&hide_title=true&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=yoshiko2&show_icons=true)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiko2&hide=powershell,makefile)]()
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yoshiko2&repo=av_data_capture)](https://github.com/yoshiko2/av_data_Capture)
 
 
 
