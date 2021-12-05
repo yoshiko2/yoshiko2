@@ -5,15 +5,15 @@
 
 
 
-#### Platform
+## Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Debian-10-da282a?style=flat-square&logo=debian)]()
 [![](https://img.shields.io/badge/ArchLinux-latest-1793D1?style=flat-square&logo=Arch-Linux)]()
 [![](https://img.shields.io/badge/FreeBSD-13-da282a?style=flat-square&logo=FreeBSD)]()
-#### Terminal
+## Terminal
 [![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
 [![](https://img.shields.io/badge/Samsung-S10%205G-blue?style=flat-square&)]()
-#### Homelab & Server
+## Homelab & Server
 [![](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/VMware-vCenter-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square)]()
@@ -28,7 +28,7 @@
 
 <!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
-#### Tech Stacks 
+## Tech Stacks 
 [![](https://img.shields.io/badge/Ps-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001e36)](https://adobe.com/)
 [![](https://img.shields.io/badge/Pr-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=000058)](https://adobe.com/)
 
@@ -49,7 +49,7 @@
 
 
 
-#### Find Me
+## Find Me
 
 [![](https://img.shields.io/badge/-Telegram-204461?style=flat-square&logo=telegram)](https://t.me/yoshiko2)
 [![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:yoshiko2.dev@gmail.com)
