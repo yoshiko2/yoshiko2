@@ -17,6 +17,7 @@
 [![](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/VMware-vCenter-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square)]()
+[![](https://img.shields.io/badge/Intel-Xeon%20Platinum-0071C5?style=flat-square)]()
 
 
 [![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
@@ -26,8 +27,6 @@
 
 [![](https://img.shields.io/badge/Broadcom-NetXtreme-CC092F?style=flat-square&logo=broadcom)]()
 [![](https://img.shields.io/badge/Mellanox-ConnectX-0059ab?style=flat-square)]()
-
-<!--[![](https://img.shields.io/badge/Android-Lenovo%20Z5%20Pro%20GT-f5010c?style=flat-square&logo=Android&logoColor=white)](https://activity.lenovo.com.cn/activity/moto/introduce/lenovoz5pro/html/gt/index.html)-->
 
 ## Tech Stacks 
 [![](https://img.shields.io/badge/Ps-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001e36)](https://adobe.com/)
@@ -42,13 +41,6 @@
 [![](https://img.shields.io/badge/Python-3.7-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
 [![](https://img.shields.io/badge/Golang-1.16.5-00ADD8?style=flat-square&logo=Go)](https://golang.com/)
 [![](https://img.shields.io/badge/-C%20Sharp-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
-
-
-
-
-
-
-
 
 ## Find Me
 
