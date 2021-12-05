@@ -16,6 +16,7 @@
 ## Homelab & Server
 [![](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/VMware-vCenter-607078?style=flat-square)]()
+[![](https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=Proxmox)]()
 
 [![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square)]()
 [![](https://img.shields.io/badge/Intel-Xeon%20Platinum-0071C5?style=flat-square)]()
