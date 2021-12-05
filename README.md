@@ -20,6 +20,7 @@
 
 
 [![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
+[![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X11-01963b?style=flat-square)]()
 [![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
 [![](https://img.shields.io/badge/-H3C-e50110?style=flat-square)]()
 
