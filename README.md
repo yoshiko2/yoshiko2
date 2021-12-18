@@ -1,7 +1,7 @@
 **一个穷学生**
 
 [![](https://github-readme-stats.vercel.app/api?username=yoshiko2&show_icons=true)]()
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yoshiko2&repo=av_data_capture)](https://github.com/yoshiko2/av_data_Capture)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yoshiko2&repo=av_data_capture)](https://github.com/yoshiko2/movie_data_Capture)
 
 
 
