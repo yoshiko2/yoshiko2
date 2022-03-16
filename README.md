@@ -21,8 +21,8 @@
 [![](https://img.shields.io/badge/Intel-Xeon%20E5v4-0071C5?style=flat-square)]()
 [![](https://img.shields.io/badge/Intel-Xeon%20Platinum-0071C5?style=flat-square)]()
 
+[![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X10-01963b?style=flat-square)]()
 [![](https://img.shields.io/badge/SUPERMICR%E2%97%8F-X11-01963b?style=flat-square)]()
-[![](https://img.shields.io/badge/HPE-Gen9-01A982?style=flat-square)]()
 
 [![](https://img.shields.io/badge/-H3C-e50110?style=flat-square)]()
 [![](https://img.shields.io/badge/Broadcom-NetXtreme-CC092F?style=flat-square&logo=broadcom)]()
