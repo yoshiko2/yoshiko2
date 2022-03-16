@@ -7,7 +7,7 @@
 
 ## Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Debian-10-da282a?style=flat-square&logo=debian)]()
+[![](https://img.shields.io/badge/Debian-11-da282a?style=flat-square&logo=debian)]()
 [![](https://img.shields.io/badge/ArchLinux-latest-1793D1?style=flat-square&logo=Arch-Linux)]()
 [![](https://img.shields.io/badge/FreeBSD-13-da282a?style=flat-square&logo=FreeBSD)]()
 ## Terminal
