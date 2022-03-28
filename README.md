@@ -1,5 +1,3 @@
-**一个穷学生**
-
 [![](https://github-readme-stats.vercel.app/api?username=yoshiko2&show_icons=true)]()
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yoshiko2&repo=av_data_capture)](https://github.com/yoshiko2/movie_data_Capture)
 
@@ -29,7 +27,7 @@
 [![](https://img.shields.io/badge/Mellanox-ConnectX-0059ab?style=flat-square)]()
 
 ## Tech Stacks 
-[![](https://img.shields.io/badge/Python-3.7-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
+[![](https://img.shields.io/badge/Python-3-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
 [![](https://img.shields.io/badge/Golang-1.16.5-00ADD8?style=flat-square&logo=Go)](https://golang.com/)
 [![](https://img.shields.io/badge/-C%20Sharp-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
