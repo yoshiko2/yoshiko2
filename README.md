@@ -29,7 +29,6 @@
 ## Tech Stacks 
 [![](https://img.shields.io/badge/Python-3-3776ab?style=flat-square&logo=Python&logoColor=white)](https://python.com/)
 [![](https://img.shields.io/badge/Golang-1.16.5-00ADD8?style=flat-square&logo=Go)](https://golang.com/)
-[![](https://img.shields.io/badge/-C%20Sharp-4c7f16?style=flat-square&logo=C-Sharp&logoColor=ffffff)](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 
 [![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-000000?style=flat-square&logo=PyCharm&logoColor=000000)]()
 [![](https://img.shields.io/badge/IDE-JetBrains%20GoLand-000000?style=flat-square&logo=GoLand&logoColor=000000)]()
