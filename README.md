@@ -16,9 +16,6 @@
 [![](https://img.shields.io/badge/Ps-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001e36)](https://adobe.com/)
 [![](https://img.shields.io/badge/Pr-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=000058)](https://adobe.com/)
 
-## Terminal
-[![](https://img.shields.io/badge/-ZHAN%2066%20Pro%2014-ffffff?style=flat-square&logo=HP&logoColor=2376bc)]()
-[![](https://img.shields.io/badge/Samsung-S10%205G-blue?style=flat-square&)]()
 ## Homelab & Server
 [![](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square)]()
 [![](https://img.shields.io/badge/VMware-vCenter-607078?style=flat-square)]()
