@@ -1,7 +1,8 @@
 ## 简介
 * 大一在读学生
+* 通信技术
 * 期望方向：运维开发
-* 期望城市：深圳 东莞
+* 期望城市：深圳 东莞 （或远程）
 * Email: yoshiko2.dev@gmail.com
 
 ## 项目经历
@@ -11,7 +12,7 @@
 ## 关于我 | About Me
 * **野生独立开发者**
 * 熟悉 Python3 开发，擅长于爬虫和浏览器自动化测试：Xpath Beautifulsoup Selenium
-* 掌握 Golang 基础，正在学习Golang，数据结构
+* 掌握 Golang 基础，正在学习Golang，数据结构（恶补CS中）
 * 掌握 git 使用
 * 熟悉配置 Linux, Windows Server, VMware ESXi/vCenter，并搭建 HomeLab 学习
 * 熟悉配置 Linux 网络服务
